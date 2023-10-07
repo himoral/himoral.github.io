@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Game On, Green Savers! Investigating the Effects of Gamification Affordances on User Green Intrinsic Motivation: A Cognitive Evaluation Perspective."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about the Ant Forest. Based on cognitive evaluation theory and gamification affordance, this research aims to understand how gamified information systems (ISs) promote the public’s green intrinsic motivation towards sustainable behaviour.'
+date: Under final round review
+venue: 'Industrial Management & Data Systems'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sihan Cheng, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the Ant Forest. Based on cognitive evaluation theory and gamification affordance, this research aims to understand how gamified information systems (ISs) promote the public’s green intrinsic motivation towards sustainable behaviour.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper will be here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: coming soon
