@@ -3,7 +3,7 @@ title: "Exploratory innovation and exploitative innovation implications of compl
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'How to improve the innovation performance of complementor firms is not only the focus of platform owners, but also the purpose for complementor firms to participate in the platform ecosystem to carry out co-specialization activities. This paper adopts the fsQCA method to systematically analyze the core issue of which factors can effectively improve the exploratory and exploitative innovation performance of complementor firms in the whole process of value creation and capture in the digital platform ecosystem. '
-date: 2023-12-31
+circumstance: with editor
 venue: 'Technology Forecasting Social Change'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
