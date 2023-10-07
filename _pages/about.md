@@ -9,47 +9,30 @@ redirect_from:
 ---
 
 Here is Sihan Cheng(Lorenzo,成思翰)
-I am a junior undergraduate student majoring in Business Management at Zhejiang University of Technology.I am extremely fortunate to be advised by Pro.Cao [this repository](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and Dr.May [this repository](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research. Under their guidance, I have been working on explainable recommendation. Here is my Resume.
+I am a junior undergraduate student majoring in Business Management at Zhejiang University of Technology.I am extremely fortunate to be advised by [Pro.Cao](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and [Dr.May](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research. Under their guidance, I have been working on explainable recommendation. Here is my Research Interest.
 
 Research Interest
 ======
 Unlike other students, my current research covers a wide range of topics from digital platform and innovation to human-AI interaction and consumer behaviour. And i dived them into three main topics: 
 
-1.digital platform and innovation -- i was insipred and conducted research proposed by Gawer, who consider platform as a meta organization. Instead of system perspective proposed in IS field and organization perspective proposed in Organization Behaviour filed, we consider digital platform as an ecosystem that made up from one core company and many complementors. 
+1.Digital Platform and Innovation -- I was insipred and conducted research proposed by Gawer, who consider platform as a meta organization. Instead of system perspective proposed in IS field and organization perspective proposed in Organization Behaviour filed, we consider digital platform as an ecosystem that made up from one critical company and many complementors including other companies and all users. 
 
-2.gamification and sustainability -- Alibaba, the top tier internet company in China, continuous emphasize their ESG strategy in recent years. Interestingly, besides green energy and so on traditional aspects, Alipay, the bigest mobile payment platform in China, turned its eye on consumer daily low-carbon lifestyle. To encourage green behaviour, Ant Forest and so on mini gamified APP occured in the Taobao, Alipay and so on APPs, which made significant progress in past years and research on such phenomenon published by <<Science>>. Therefore, i think there must be lots of opportunities. 
+2.Gamification and Sustainabe -- Alibaba, the top tier internet company in China, continuous emphasize their ESG strategy in recent years. Interestingly, besides green energy and so on traditional aspects, Alipay, the bigest mobile payment platform in China, turned its eye on consumer daily low-carbon lifestyle. To encourage green behaviour, Ant Forest and so on mini gamified APP occured in the Taobao, Alipay and so on APPs, which made significant progress in past years and research on such phenomenon published by "Science". Therefore, i think there must be lots of opportunities. 
 
-3. Human-AI Interaction -- As ChatGPT advances, we have to re-evaluate our relationship with AI. In previous studies, they proposed Social AI and Social Robot. However, there is still a gap of how we treat and cognize New type of AI and Robots.
+3.Human-AI Interaction -- As ChatGPT advances, we have to re-evaluate our relationship with AI. In previous studies, they proposed Social AI and Social Robot. However, there is still a gap of how we treat and cognize New type of AI and Robots.
 
-Getting started
+Education Basic Information
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2020.09 - now 
 
-Site-wide configuration
+Zhejiang University of Technology    Major: Business Management
+
+GPA: 87/100     IELTS: 7    GRE:🚧
+
+Course Score: Industry Analysis 99; Ecommerce 96 ; Data, Model and Decision 93; Information System 91
+
+Honor：Received the School Scholarship for all school years
+
+For Contact
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Feel free to contact me via email Himoral@163.com or I also can be found in Wechat:himQAQ . 
