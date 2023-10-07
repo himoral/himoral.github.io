@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Here is Sihan Cheng(Lorenzo,成思翰)
+I am a junior undergraduate student majoring in Business Management at Zhejiang University of Technology.I am extremely fortunate to be advised by Pro.Cao in IS research and Pro.May in Strategy ＆ Inovation management research. Under their guidance, I have been working on explainable recommendation. Here is my Resume.
 
-A data-driven personal website
+Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Unlike other students, my current research covers a wide range of topics from digital platform and innovation to human-AI interaction and consumer behaviour. And i dived them into three main topics: 
+1.digital platform and innovation-- i was insipred and conducted research proposed by Gawer, who consider platform as a meta organization. Instead of system perspective proposed in IS field and organization perspective proposed in Organization Behaviour filed, we consider digital platform as an ecosystem that made up from one core company and many complementors. 
+2.gamification and sustainability -- Alibaba, the top tier internet company in China, continuous emphasize their ESG strategy in recent years. Interestingly, besides green energy and so on traditional aspects, Alipay, the bigest mobile payment platform in China, turned its eye on consumer daily low-carbon lifestyle. To encourage green behaviour, Ant Forest and so on mini gamified APP occured in the Taobao, Alipay and so on APPs, which made significant progress in past years and research on such phenomenon published by <<Science>>. Therefore, i think there must be lots of opportunities. 
+3. Human-AI Interaction -- As ChatGPT advances, we have to re-evaluate our relationship with AI. In previous studies, they proposed Social AI and Social Robot. However, there is still a gap of how we treat and cognize New type of AI and Robots.
 
 Getting started
 ======
