@@ -13,7 +13,7 @@ I am a junior undergraduate student majoring in Business Management at Zhejiang 
 
 Research Interest
 ======
-Unlike other students, my current research covers a wide range of topics from digital platform and innovation to human-AI interaction and consumer behaviour. And i dived them into three main topics: 
+Unlike other students, my current research covers a wide range of topics from digital platform and innovation to human-AI interaction and consumer behaviour. And i categories them into three main topics: 
 
 1.Digital Platform and Innovation
 
