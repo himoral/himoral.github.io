@@ -10,6 +10,4 @@ citation: 'coming soon'
 ---
 This paper is about the Ant Forest. Based on cognitive evaluation theory and gamification affordance, this research aims to understand how gamified information systems (ISs) promote the public’s green intrinsic motivation towards sustainable behaviour.
 
-[Download paper will be here](http://academicpages.github.io/files/paper1.pdf)
-
 Recommended citation: coming soon
