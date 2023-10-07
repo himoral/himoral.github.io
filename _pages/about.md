@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Here is Sihan Cheng(Lorenzo,成思翰)
-I am a junior undergraduate student majoring in Business Management at Zhejiang University of Technology.I am extremely fortunate to be advised by Pro.Cao in IS research and Pro.May in Strategy ＆ Inovation management research. Under their guidance, I have been working on explainable recommendation. Here is my Resume.
+I am a junior undergraduate student majoring in Business Management at Zhejiang University of Technology.I am extremely fortunate to be advised by Pro.Cao [this repository](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and Dr.May [this repository](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research. Under their guidance, I have been working on explainable recommendation. Here is my Resume.
 
 Research Interest
 ======
