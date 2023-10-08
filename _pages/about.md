@@ -33,7 +33,7 @@ Education Basic Information
 
 Major: Business Management
 
-**GPA**: 87/100 　　**IELTS**: 7 　　 **GRE**:🚧\(will better than 305\)
+**GPA**: 87/100 　　**IELTS**: 7 　　 **GRE**:🚧
 
 Course Score: Industry Analysis 99; Ecommerce 96 ; Data, Model and Decision 93; Information System 91
 
