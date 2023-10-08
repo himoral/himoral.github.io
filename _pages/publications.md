@@ -13,14 +13,8 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  {% if post.date %}
-    {% assign has_date = true %}
-  {% endif %}
-  {% if post.circumstance and post.venue and !post.date %}
-    {% if has_date %}
-      <p>......</p >
-    {% else %}
-      <p>......</p >
-    {% endif %}
+  {% assign has_date = post.date | default: nil %}
+  {% if has_date == nil and post.circumstance and post.venue %}
+    <p>......</p >
   {% endif %}
 {% endfor %}
