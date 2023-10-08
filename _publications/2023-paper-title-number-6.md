@@ -6,7 +6,7 @@ excerpt: 'This study focus on the Ant Forest, an MiniApp based on the Alipay. Th
 circumstance: Ready to submit
 venue: 'Tourism management'
 paperurl: ''
-citation: '<strong>Cheng, S.H.<strong/>, Zheng, M.M., Cao, C. <i>Tourism management (SSCI Q1, If=12.779, FMS A, ABS4)<i/>, Ready to submit.'
+citation: '<strong>Cheng, S.H.</strong>, Zheng, M.M., Cao, C. <i>Tourism management (SSCI Q1, If=12.779, FMS A, ABS4)</i>, Ready to submit.'
 ---
 Cheng, S.H., Zheng, M.M., Cao, C.  Tourism management (SSCI Q1, If=12.779, FMS A, ABS4) **Ready to submit.**
 
