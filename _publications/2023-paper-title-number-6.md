@@ -1,7 +1,7 @@
 ---
 title: "Travel with Play for a Better World: How Gamification Fosters Pro-Environmental Behaviour among Tourists."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-paper-title-number-6.md
 excerpt: 'This study focus on the Ant Forest, an MiniApp based on the Alipay. The aim of this paper is to address the research gap regarding how gamification influences visitors’ sustainable behaviour along the journey. We propose a theoretical model, to examine the underlying mechanism between these constructs. '
 circumstance: Ready to submit
 venue: 'Tourism management'
