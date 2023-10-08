@@ -6,7 +6,7 @@ excerpt: 'How to improve the innovation performance of complementor firms is not
 circumstance: with editor
 venue: 'Technology Forecasting Social Change'
 paperurl: ''
-citation: 'Mei, J. Y., Cheng, S. H., & Shi, J. C. Technological Forecasting and Social Change (SSCI Q1, If=12, Top, ABS3), Under review.'
+citation: 'Mei, J. Y., <strong>Cheng, S. H.<strong/>, & Shi, J. C. Technological Forecasting and Social Change (SSCI Q1, If=12, Top, ABS3), Under review.'
 ---
 Mei, J. Y., Cheng, S. H., & Shi, J. C. Technological Forecasting and Social Change (SSCI Q1, If=12, Top, ABS3), **Under review**.
 
