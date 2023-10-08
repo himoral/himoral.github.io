@@ -1,7 +1,7 @@
 ---
 title: "Will Competition in Online Games Foster Green Behaviour in Life? The Relationship Between Gamification Affordances and Engagement in Green Behaviours."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-paper-title-number-4.md
 excerpt: 'As gamification mechanisms have continued to embed green behaviours, users of Ant Forest—a pioneer in gamification systems in China—have begun to show unexpected reactions. This paper explored the psychological mechanisms influencing users’ participation in green behaviours in the new Ant Forest scenarios from the perspective of user psychology in combination with gamification affordances and cognitive evaluation theory. '
 circumstance: With editor
 venue: 'Technology in society'
