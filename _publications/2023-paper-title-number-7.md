@@ -6,7 +6,7 @@ excerpt: 'This research focus on 88 Carbon Account released by Taobao, encouragi
 circumstance: Ready to submit
 venue: 'Journal of Environmental management'
 paperurl: ''
-citation: 'Cheng, S. H., Zhang, X.W., Cao, C. Journal of Environmental management (SSCI Q1, If=8.7, ABS3), Ready to submit.'
+citation: 'Cheng, S. H., Zhang, X.W., Cao, C. <i>Journal of Environmental management (SSCI Q1, If=8.7, ABS3)<i/>, Ready to submit.'
 ---
 
 Cheng, S. H., Zhang, X.W., Cao, C. Journal of Environmental management (SSCI Q1, If=8.7, ABS3), **Ready to submit**.
