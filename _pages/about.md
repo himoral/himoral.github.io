@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 Here is Sihan Cheng(Lorenzo,成思翰)
-I am a final year undergraduate student majoring in Business Management at Zhejiang University of Technology. I am extremely fortunate to be advised by [Prof.Cao](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and [Dr.May](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research. Under their guidance, I have been working on explainable recommendation. Here is my Research Interest.
+I am a final year undergraduate student majoring in Business Management at Zhejiang University of Technology. I am extremely fortunate to be advised by [Prof.Cao](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and [Dr.May](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research.<i>(Due to the Asian Games, these sites might can not be accessed, but they all great teachers!)</i> Under their guidance, I have been working on explainable recommendation. Here is my Research Interest.
 
 Research Interest
 ======
-Unlike other students, my current research covers a wide range of topics from digital platform and innovation to human-AI interaction and consumer behaviour. And i categories them into three main topics: 
+Unlike other students, my current research covers a wide range of topics from digital platform and innovation to human-AI interaction and consumer behaviour. And I categories them into three main topics: 
 
 **Digital Platform and Innovation**
 
