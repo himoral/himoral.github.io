@@ -6,7 +6,7 @@ excerpt: 'As gamification mechanisms have continued to embed green behaviours, u
 circumstance: With editor
 venue: 'Technology in society'
 paperurl: ''
-citation: 'Cheng, S. H., Cao, C. Technology in society (SSCI Q1, If=9.2), With editor.'
+citation: '<strong>Cheng, S. H.<strong/>, Cao, C. <i>Technology in society (SSCI Q1, If=9.2)<i/>, With editor.'
 ---
 Cheng, S. H., Cao, C. Technology in society (SSCI Q1, If=9.2), **With editor**.
 
