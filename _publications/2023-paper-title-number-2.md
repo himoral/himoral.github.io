@@ -6,7 +6,7 @@ excerpt: 'This research explores the potential of gamification and immersive tec
 circumstance: Abstract accepted and under review.
 venue: 'Journal Of Contemporary Hospitality Management'
 paperurl: ''
-citation: '**Cheng, S. H.**, Zheng, M. M., Cao, C. International journal of Contemporary Hospitality Management (SSCI Q1, If=11.1, ABS3) Abstract accepted and under review.'
+citation: 'Cheng, S. H., Zheng, M. M., Cao, C. International journal of Contemporary Hospitality Management (SSCI Q1, If=11.1, ABS3) Abstract accepted and under review.'
 ---
 Cheng, S. H., Zheng, M. M., Cao, C. International journal of Contemporary Hospitality Management (SSCI Q1, If=11.1, ABS3) **Abstract accepted and under review**.
 
