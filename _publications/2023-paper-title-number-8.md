@@ -6,6 +6,6 @@ excerpt: 'This paper explores the interactions between cultural factors and inno
 circumstance: Major reversion.
 venue: 'Cross Cultural ＆ Strategic Management'
 paperurl: ''
-citation: 'Chu, C.X., Cheng, S.H., Cao,C. &quot;AI becomes your co-worker! Exploring related changes in corporate culture and innovation capability.&quot; <i>Cross Cultural ＆ Strategic Management</i>. Major reversion.'
+citation: 'Chu, C.X., <strong>Cheng, S.H.</strong>, Cao,C. &quot;AI becomes your co-worker! Exploring related changes in corporate culture and innovation capability.&quot; <i>Cross Cultural ＆ Strategic Management</i>. Major reversion.'
 ---
 
