@@ -6,7 +6,7 @@ excerpt: 'This study is pioneering as it empirically scrutinizes how social cogn
 circumstance: Ready to submit
 venue: 'EUROPEAN JOURNAL OF INFORMATION SYSTEMS'
 paperurl: ''
-citation: '<strong>Cheng, S.H.<strong/>, Cao, C.,Shao, X.Y...., <i>EUROPEANJOURNAL OF INFORMATION SYSTEMS (SSCI Q1, If=9.5, ABS4)<i/>, Ready to submit.'
+citation: '<strong>Cheng, S.H.</strong>, Cao, C.,Shao, X.Y...., <i>EUROPEANJOURNAL OF INFORMATION SYSTEMS (SSCI Q1, If=9.5, ABS4)</i>, Ready to submit.'
 ---
 
 Cheng, S.H., Cao, C.,Shao, X.Y.... EUROPEANJOURNAL OF INFORMATION SYSTEMS (SSCI Q1, If=9.5, ABS4) **Ready to submit**.
