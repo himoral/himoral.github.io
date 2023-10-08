@@ -38,7 +38,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "Coming soon~" | date: "" }} </p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "Coming soon~" | date: "" }} </p>
+          <p>Target in <i>{{ page.venue }}</i>, {{ page.date | default: "Coming soon~" | date: "" }} </p>
         {% elsif page.circumstance and page.venue %}
           <p>Target in <i>{{ page.venue }}</i>, <strong>{{ page.circumstance }}</strong> </p>
         {% elsif page.date %}
