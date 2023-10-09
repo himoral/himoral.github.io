@@ -6,7 +6,7 @@ excerpt: 'This study is pioneering as it empirically scrutinizes how social cogn
 circumstance: Ready to submit
 venue: 'EUROPEAN JOURNAL OF INFORMATION SYSTEMS'
 paperurl: ''
-relatedurl:'https://www.msn.com/en-us/money/other/mark-zuckerberg-wants-you-to-have-your-own-jarvis-ai-is-coming-to-instagram-messenger-and-whatsapp/ar-AA1hojJ3'
+relatedurl: 'https://www.msn.com/en-us/money/other/mark-zuckerberg-wants-you-to-have-your-own-jarvis-ai-is-coming-to-instagram-messenger-and-whatsapp/ar-AA1hojJ3'
 citation: '<strong>Cheng, S.H.</strong>, Cao, C.,Shao, X.Y...., <i>EUROPEANJOURNAL OF INFORMATION SYSTEMS (SSCI Q1, If=9.5, ABS4)</i>, Ready to submit.'
 ---
 
