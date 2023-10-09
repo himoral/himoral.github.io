@@ -6,6 +6,7 @@ excerpt: 'This paper is about the Ant Forest. Based on cognitive evaluation theo
 circumstance: Under final round review
 venue: 'Industrial Management & Data Systems'
 paperurl: ''
+relatedurl: 'https://www.weforum.org/agenda/2020/07/china-ant-forest-app-carbon-emissions-trees/'
 citation: '<strong>Cheng, S. H.</strong>, Cao, C. <i>Industrial Management & Data Systems (SSCI Q2, If=5.5, ABS2)</i>, Under final round review.'
 ---
 
