@@ -6,6 +6,7 @@ excerpt: 'This research explores the potential of gamification and immersive tec
 circumstance: Abstract accepted and under review.
 venue: 'Journal Of Contemporary Hospitality Management'
 paperurl: ''
+relatedurl: 'http://www.chinadaily.com.cn/a/202309/13/WS65017804a310d2dce4bb5892.html'
 citation: '<strong>Cheng, S. H.</strong>, Zheng, M. M., Cao, C. <i>International journal of Contemporary Hospitality Management (SSCI Q1, If=11.1, ABS3)</i>, Abstract accepted and under review.'
 ---
 
