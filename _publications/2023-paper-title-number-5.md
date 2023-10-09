@@ -1,7 +1,7 @@
 ---
 title: "Do You Like Talking to an Omnipotent Human-like Robot? The Effect of High Anthropomorphism in Intelligent Virtual Assistants on Consumer Confirmation."
 collection: publications
-permalink: /publication/2023-paper-title-number-5.md
+permalink: /publication/2023-paper-title-number-5
 excerpt: 'This study is pioneering as it empirically scrutinizes how social cognition traits of IVAs impact the expectation-confirmation process. Unravelling this dimension of human-computer interaction, particularly its evolving influence on prolonged usage - especially for experience-like IVAs that simulate human-to-human interaction as opposed to traditional human-computer interaction - is pivotal.'
 circumstance: Ready to submit
 venue: 'EUROPEAN JOURNAL OF INFORMATION SYSTEMS'
