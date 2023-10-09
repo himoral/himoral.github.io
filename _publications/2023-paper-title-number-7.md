@@ -8,10 +8,3 @@ venue: 'Journal of Environmental management'
 paperurl: ''
 citation: '<strong>Cheng, S. H.</strong>, Zhang, X.W., Cao, C. <i>Journal of Environmental management (SSCI Q1, If=8.7, ABS3)</i>, Ready to submit.'
 ---
-
-Cheng, S. H., Zhang, X.W., Cao, C. Journal of Environmental management (SSCI Q1, If=8.7, ABS3), **Ready to submit**.
-
-Trying our best to polish and correct our grammar and other things. it's an interesting research, and i'm happy with this study.😙
-
-This study focus on how 88 Carbon Account app on Taobao platform encourage consumers to 7*24 green lifestyle. Mixed method was used to better explore the brand new phenomenon.
-
