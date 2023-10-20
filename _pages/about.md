@@ -23,7 +23,7 @@ I was insipred and conducted research proposed by Gawer, who consider platform a
 
 Alibaba, the top tier internet company in China, continuous emphasize their ESG strategy in recent years. Interestingly, besides green energy and so on traditional aspects, Alipay, the bigest mobile payment platform in China, turned its eye on consumer daily low-carbon lifestyle. To encourage green behaviour, Ant Forest and so on mini gamified APP occured in the Taobao, Alipay and so on APPs, which made significant progress in past years and research on such phenomenon published by "Science". Therefore, i think there must be lots of opportunities. 
 
-**Human-AI Interaction**
+**Human-AI Interaction (Human-AI team)**
 
 As ChatGPT advances, we have to re-evaluate our relationship with AI. In previous studies, they proposed Social AI and Social Robot. However, there is still a gap of how we treat and cognize New type of AI and Robots.
 
