@@ -1,5 +1,5 @@
 ---
-title: "Game On, Green Savers! Investigating the Effects of Gamification Affordances on User Green Intrinsic Motivation: A Cognitive Evaluation Perspective."
+title: "Investigating the Effects of Gamification Affordances on Users’ Green Intrinsic Motivation: A Cognitive Evaluation Perspective"
 collection: publications
 permalink: /publication/2023-paper-title-number-1
 excerpt: 'This paper is about the Ant Forest. Based on cognitive evaluation theory and gamification affordance, this research aims to understand how gamified information systems (ISs) promote the public’s green intrinsic motivation towards sustainable behaviour.'
