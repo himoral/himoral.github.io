@@ -17,7 +17,7 @@ Unlike other students, my current research covers a wide range of topics from di
 
 **Digital Platform and Innovation**
 
-I was insipred and conducted research proposed by Gawer, who consider platform as a meta organization. Instead of system perspective proposed in IS field and organization perspective proposed in Organization Behaviour filed, we consider digital platform as an ecosystem that made up from one critical company and many complementors including other companies and all users. 
+I was insipred and conducted research proposed by Gawer. Instead of system perspective proposed in IS field and organization perspective proposed in Organization Behaviour filed, we consider digital platform as an ecosystem that made up from one critical company and many complementors including other companies and all users.
 
 **Gamification and Sustainability** 
 
