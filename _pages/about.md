@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Here is Sihan Cheng(Lorenzo,成思翰)
-I am a senior year undergraduate student majoring in Business Administration at Zhejiang University of Technology. I am extremely fortunate to be advised by [Prof.Cao](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and [Dr.May](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research.<i>(Due to the Asian Games, these sites might can not be accessed, but they all great teachers!)</i> Under their guidance, I have been working on numerous cutting-edge phenomenon. Here is my Research Interest.
+I am a senior year undergraduate student majoring in Business Administration at Zhejiang University of Technology. I am extremely fortunate to be advised by [Prof.Cao](https://homepage.zjut.edu.cn/congcao/) in Information Systems research and [Dr.May](https://homepage.zjut.edu.cn/mjy/) in Strategy ＆ Inovation management research.<i>(Due to the Asian Games, these sites might can not be accessed, but they all great teachers!)</i> Under their guidance, I have a great academic time. Here is my Research Interest.
 
 Research Interest
 ======
@@ -25,7 +25,7 @@ Alibaba, the top tier internet company in China, continuous emphasize their ESG 
 
 **Human-AI Interaction (Human-AI team)**
 
-As ChatGPT advances, we have to re-evaluate our relationship with AI. In previous studies, they proposed Social AI and Social Robot. However, there is still a gap of how we treat and cognize New type of AI and Robots.
+As advancements in AI technologies continue, a plethora of companies have begun implementing AI tools into their daily workflows, essentially employing them as new team members. However, effectively utilizing these AI assistants requires employees to share their knowledge and information, a procedure many companies find challenging to incentivize. Despite this, studies suggest that humans are inclined to share more private information with AI than with other humans and an organizational environment that supports knowledge-sharing behaviours. Yet, it remains unclear how human-AI interactions within team settings influence colleagues' knowledge sharing behaviours and whether social cognitions of AI contribute to improved company performance.
 
 Education Basic Information
 ======
@@ -33,11 +33,13 @@ Education Basic Information
 
 Major: Business Management
 
-**GPA**: 87/100 　　**IELTS**: 7 　　 **GRE**:🚧
+**GPA**: 88/100 　　**IELTS**: 7 　　 **GRE**:🚧
 
 Course Score: Industry Analysis 99; Ecommerce 96 ; Data, Model and Decision 93; Information System 91
 
-Honor：Received the School Scholarship for all school years
+Honor：Received the School Scholarship for all school years; 
+
+Informs Undergraduate Scholarship 2023 Final Round Nomination
 
 For Contact
 ------
