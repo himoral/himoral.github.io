@@ -39,7 +39,7 @@ Course Score: Industry Analysis 99; Ecommerce 96 ; Data, Model and Decision 93; 
 
 Honor：Received the School Scholarship for all school years; 
 
-Informs Undergraduate Scholarship 2023 Final Round Nomination
+INFORMs Undergraduate Scholarship 2023 Final Round Nomination
 
 For Contact
 ------
