@@ -3,7 +3,7 @@ title: "Investigating the Effects of Gamification Affordances on Users’ Green 
 collection: publications
 permalink: /publication/2023-paper-title-number-1
 excerpt: 'This paper is about the Ant Forest. Based on cognitive evaluation theory and gamification affordance, this research aims to understand how gamified information systems (ISs) promote the public’s green intrinsic motivation towards sustainable behaviour.'
-circumstance: Under final round review
+circumstance: Final Minor Revision Submitted
 venue: 'Industrial Management & Data Systems'
 paperurl: ''
 relatedurl: 'https://www.weforum.org/agenda/2020/07/china-ant-forest-app-carbon-emissions-trees/'
